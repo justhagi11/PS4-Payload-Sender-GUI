@@ -1,10 +1,10 @@
-# PS4-BinLoader
+# PS4-Payload-Sender-GUI
 
 A simple Windows GUI for sending payloads to a PlayStation 4 running a binloader server.
 
 ## What it is
 
-PS4-BinLoader is a lightweight desktop app that sends payloads over to your PS4.
+PS4-Payload-Sender-GUI is a lightweight desktop app that sends payloads over to your PS4.
 
 ## Key Features
 
